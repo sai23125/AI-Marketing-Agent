@@ -1,0 +1,6 @@
+{
+  "name": "AI Marketing Campaign Diagnosis Agent",
+  "description": "Diagnose campaigns. Understand performance. Optimize decisions. Professional marketing analytics with deterministic calculations and agentic AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
